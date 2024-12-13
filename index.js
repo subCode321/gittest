@@ -11,3 +11,7 @@ function oof(){
     console.log('oof')
 
 } 
+
+function ofo(){
+    console.log("ofo")
+}
