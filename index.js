@@ -6,6 +6,4 @@ function yo(){
     console.log('yoo')
 }
 
-function ono(){
-    console.log("ono")
-}
+
