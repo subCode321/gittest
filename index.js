@@ -7,3 +7,7 @@ function yo(){
 }
 
 
+function oof(){
+    console.log('oof')
+
+} 
